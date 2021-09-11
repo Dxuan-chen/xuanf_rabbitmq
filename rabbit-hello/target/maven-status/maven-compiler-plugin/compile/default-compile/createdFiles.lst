@@ -1,0 +1,15 @@
+com\xuanf\rabbitmq\workqueuesack\Task2.class
+com\xuanf\rabbitmq\workqueuesack\Work04.class
+com\xuanf\rabbitmq\topic\ReceiveLogsTopic01.class
+com\xuanf\rabbitmq\helloworld\Producer.class
+com\xuanf\rabbitmq\workqueuesack\Work03.class
+com\xuanf\rabbitmq\deadqueue\Producer.class
+com\xuanf\rabbitmq\deadqueue\Consumer01.class
+com\xuanf\rabbitmq\deadqueue\Consumer02.class
+com\xuanf\rabbitmq\workqueues\Task01.class
+com\xuanf\rabbitmq\utils\RabbitMqUtils.class
+com\xuanf\rabbitmq\topic\ReceiveLogsTopic02.class
+com\xuanf\rabbitmq\utils\SleepUtils.class
+com\xuanf\rabbitmq\topic\EmitLogTopic.class
+com\xuanf\rabbitmq\workqueues\Worker01.class
+com\xuanf\rabbitmq\helloworld\Consumer.class
