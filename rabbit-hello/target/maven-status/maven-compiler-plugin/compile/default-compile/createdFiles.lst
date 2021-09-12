@@ -5,6 +5,8 @@ com\xuanf\rabbitmq\helloworld\Producer.class
 com\xuanf\rabbitmq\workqueuesack\Work03.class
 com\xuanf\rabbitmq\deadqueue\Producer.class
 com\xuanf\rabbitmq\deadqueue\Consumer01.class
+com\xuanf\rabbitmq\priorityqueue\Consumer.class
+com\xuanf\rabbitmq\priorityqueue\Producer.class
 com\xuanf\rabbitmq\deadqueue\Consumer02.class
 com\xuanf\rabbitmq\workqueues\Task01.class
 com\xuanf\rabbitmq\utils\RabbitMqUtils.class

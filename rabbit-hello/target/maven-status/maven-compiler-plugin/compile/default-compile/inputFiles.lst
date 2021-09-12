@@ -4,6 +4,7 @@ D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xu
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\workqueuesack\Work03.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\deadqueue\Producer.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\deadqueue\Consumer01.java
+D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\priorityqueue\Producer.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\utils\RabbitMqUtils.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\workqueuesack\Task2.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\topic\EmitLogTopic.java
@@ -12,4 +13,5 @@ D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xu
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\helloworld\Consumer.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\utils\SleepUtils.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\helloworld\Producer.java
+D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\priorityqueue\Consumer.java
 D:\Documents\JAVA\IDEA-Projects\xuanf_rabbitmq\rabbit-hello\src\main\java\com\xuanf\rabbitmq\workqueuesack\Work04.java
